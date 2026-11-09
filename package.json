@@ -1,0 +1,21 @@
+{
+  "name": "noor-islam",
+  "version": "1.0.0",
+  "description": "NOOR ISLAM Islamic Super App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "islam",
+    "quran",
+    "prayer"
+  ],
+  "author": "NOOR ISLAM",
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/cli": "^8.6.0",
+    "@capacitor/core": "^8.6.0"
+  }
+}
